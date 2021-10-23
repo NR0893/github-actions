@@ -9,9 +9,9 @@
 import HelloWorld from "./components/HelloWorld.vue";
 
 export default {
-  name: "App",
+  name: "App2",
   components: {
-    HelloWorld iets anders,
+    HelloWorld,
   },
 };
 </script>
